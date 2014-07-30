@@ -9,8 +9,8 @@ import os
 import sys
 
 set_map = {
-	'ALR': 'Alara Reborn',
-	'AL': 'Alliances',
+	'ARB': 'Alara Reborn',
+	'ALL': 'Alliances',
 	'AQ': 'Antiquities',
 	'AP': 'Apocalypse',
 	'AN': 'Arabian Nights',
@@ -56,7 +56,7 @@ set_map = {
 	'GTC': 'Gatecrash',
 	'GPT': 'Guildpact',
 	'HM': 'Homelands',
-	'IA': 'Ice Age',
+	'ICE': 'Ice Age',
 	'ISD': 'Innistrad',
 	'IN': 'Invasion',
 	'JOU': 'Journey into Nyx',
@@ -71,6 +71,7 @@ set_map = {
 	'M12': 'Magic 2012',
 	'M13': 'Magic 2013',
 	'M14': 'Magic 2014 Core Set',
+	'M15': 'Magic 2015 Core Set',
 	'CMD': 'Magic: The Gathering-Commander',
 	'MED': 'Master\'s Edition',
 	'ME2': 'Master\'s Edition II',
@@ -117,6 +118,7 @@ set_map = {
 	'UD': 'Urza\'s Destiny',
 	'UL': 'Urza\'s Legacy',
 	'UZ': 'Urza\'s Saga',
+	'VMA': 'Vintage Masters',
 	'VI': 'Visions',
 	'WL': 'Weatherlight',
 	'WWK': 'Worldwake',
