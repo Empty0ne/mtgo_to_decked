@@ -39,7 +39,7 @@ set_map = {
 	'DDE': 'Duel Decks: Phyrexia vs. the Coalition',
 	'DDK': 'Duel Decks: Sorin vs. Tibalt',
 	'DDI': 'Duel Decks: Venser vs. Koth',
-	'8ED': 'Eight Edition',
+	'8ED': 'Eighth Edition',
 	'EVE': 'Eventide',
 	'EX': 'Exodus',
 	'FE': 'Fallen Empires',
