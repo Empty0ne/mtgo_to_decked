@@ -80,7 +80,7 @@ set_map = {
 	'MM': 'Mercadian Masques',
 	'MI': 'Mirage',
 	'MRD': 'Mirrodin',
-	'MBS': 'Mirrodin Beseiged',
+	'MBS': 'Mirrodin Besieged',
 	'MMA': 'Modern Masters',
 	'MOR': 'Morningtide',
 	'NE': 'Nemesis',
